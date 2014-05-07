@@ -4,6 +4,7 @@
 # Coursera's Exploratory Data Analysis Project 1
 
 # Import our data.
+# Please refer to "import_data.R" for code to import the data set.
 source("import_data.R")
 
 # Create plot2.
