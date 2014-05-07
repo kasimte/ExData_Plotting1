@@ -1,4 +1,7 @@
 # import_data.R
+# by Kasim Te
+#
+# Coursera's Exploratory Data Analysis Project 1
 
 # This is the name of the unzipped data source.
 # Make sure it is in your working directory.

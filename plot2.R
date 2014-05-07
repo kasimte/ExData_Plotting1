@@ -1,4 +1,7 @@
 # plot2.R
+# by Kasim Te
+#
+# Coursera's Exploratory Data Analysis Project 1
 
 # Import our data.
 source("import_data.R")
